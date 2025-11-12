@@ -1,6 +1,6 @@
 <!--
-README do perfil: crie um repo público chamado "guimarin1990" e coloque este README.md.
-Icônico, direto, com PT/EN e CTAs claros.
+README do perfil: repo público "guimarin1990" com este README.md.
+Inglês primeiro, PT depois. Nav entre idiomas no topo.
 -->
 
 <p align="center">
@@ -12,43 +12,16 @@ Icônico, direto, com PT/EN e CTAs claros.
 </p>
 
 <h1 align="center">Guilherme Marin</h1>
-<p align="center"><strong>Product/Finance/AI — eu construo soluções práticas com Agentes, RAG e automações (WhatsApp ↔ Google, Sheets, dashboards) orientadas a P&amp;L.</strong></p>
-<p align="center">🇧🇷 <a href="#-sobre">Português</a> · 🇺🇸 <a href="#-about">English</a></p>
+<p align="center"><strong>Product/Finance/AI — I build practical solutions with Agents, RAG, and automations (WhatsApp ↔ Google, Sheets, dashboards) tied to P&amp;L.</strong></p>
+<p align="center">🇺🇸 <a href="#-about">English</a> · 🇧🇷 <a href="#-sobre">Português</a></p>
 
 ---
 
-### ✨ Destaques / Highlights
-- 📈 +300% MRR (modelo de assinatura) · 22× receita (exchange cripto)
-- 🏛️ Licença **CTVM** no BACEN (regulatório, auditorias, governança)
-- 🤖 Agentes e RAG com foco em resultado (suporte +30% eficiência, EVALs e monitoramento)
-- 🔁 Ship rápido, medir, iterar — produto e finanças na mesma mesa
-
----
-
-## 🇧🇷 Sobre
-Sou **Product/Finance/AI Builder** com experiência na jornada do início ao fim: discovery → delivery → métricas → P&L.  
-Gosto de ligar **LLMs** a problemas reais com **agentes**, **RAG** e **automação** (WhatsApp, Google Calendar/Sheets, dashboards), mantendo qualidade e velocidade.
-
-**Agora:** migrando de *user* para *builder* em IA — portfólio ativo com projetos práticos e write-ups.
-
-### 🚀 Projetos em destaque
-- **Portfólio Pessoal** — Base para começar a explorar **Agentes/RAG** e padrões (infra de playground).  
-  ↳ Repo: https://github.com/guimarin1990/marin-digital-hub
-- **Secretária WhatsApp** — agente que agenda no **Google Calendar** e faz follow-ups automáticos.  
-  ↳ Demo: *(em breve)* · Post: *(em breve)*
-- **Material Kid** — tarefas e recompensas infantis com UX simples e IA como co-piloto.  
-  ↳ Demo: *(em breve)* · Post: *(em breve)*
-- **AI PM Roadmap** — trilha prática (PRDs, protótipos, agentes, RAG, métricas).  
-  ↳ Repo/Post: *(em breve)*
-
-### 🧰 Stack
-`Python` · `TypeScript/Node` · `LangChain/LangGraph` · `OpenAI/Gemini` · `Postgres/Redis`  
-`Google Workspace (Gmail/Calendar/Sheets)` · `Docker` · `Netlify/Vercel`
-
-### 📬 Contato
-- 🌐 Site/Portfólio: https://roboat.com.br
-- 💼 LinkedIn: https://www.linkedin.com/in/guilherme-marin/  
-- ✉️ Email: escritorio@roboat.com.br
+### ✨ Highlights / Destaques
+- 📈 +300% MRR (subscription) · 22× revenue (crypto exchange)
+- 🏛️ **Borker license** at Brazil’s Central Bank (regulatory, audits, governance)
+- 🤖 Agents & RAG focused on outcomes (+30% support efficiency, EVALs & monitoring)
+- 🔁 Ship fast, measure, iterate — product & finance at the same table
 
 ---
 
@@ -59,7 +32,7 @@ I connect **LLMs** to real problems using **agents**, **RAG**, and **automation*
 **Now:** moving from *user* to *builder* in AI — actively publishing hands-on projects and write-ups.
 
 ### 🚀 Featured Projects
-- **Personal Portfolio** — The start to explore **Agents/RAG** and patterns (infrastructure).  
+- **Personal Portfolio** — the start to explore **Agents/RAG** and patterns (infrastructure).  
   ↳ Repo: https://github.com/guimarin1990/marin-digital-hub
 - **WhatsApp Secretary** — an agent that books on **Google Calendar** and automates follow-ups.  
   ↳ Demo: *coming soon* · Post: *coming soon*
@@ -73,14 +46,40 @@ I connect **LLMs** to real problems using **agents**, **RAG**, and **automation*
 `Google Workspace (Gmail/Calendar/Sheets)` · `Docker` · `Netlify/Vercel`
 
 ### 📬 Get in touch
-- 🌐 Portfolio: https://marin-digital-hub.lovable.app/  
+- 🌐 Portfolio: https://roboat.com.br
+- 💼 LinkedIn: https://www.linkedin.com/in/guilherme-marin/  
+- ✉️ Email: escritorio@roboat.com.br
+
+---
+
+## 🇧🇷 Sobre
+Sou **Product/Finance/AI Builder** com experiência na jornada do início ao fim: discovery → delivery → métricas → P&L.  
+Gosto de ligar **LLMs** a problemas reais com **agentes**, **RAG** e **automação** (WhatsApp, Google Calendar/Sheets, dashboards), mantendo qualidade e velocidade.
+
+**Agora:** migrando de *user* para *builder* em IA — portfólio ativo com projetos práticos e write-ups.
+
+### 🚀 Projetos em destaque
+- **Portfólio Pessoal** — base para explorar **Agentes/RAG** e padrões (infraestrutura).  
+  ↳ Repo: https://github.com/guimarin1990/marin-digital-hub
+- **Secretária WhatsApp** — agente que agenda no **Google Calendar** e faz follow-ups automáticos.  
+  ↳ Demo: *(em breve)* · Post: *(em breve)*
+- **Material Kid** — tarefas e recompensas infantis com UX simples e IA como co-piloto.  
+  ↳ Demo: *(em breve)* · Post: *(em breve)*
+- **AI PM Roadmap** — trilha prática (PRDs, protótipos, agentes, RAG, métricas).  
+  ↳ Repo/Post: *(em breve)*
+
+### 🧰 Stack
+`Python` · `TypeScript/Node` · `LangChain/LangGraph` · `OpenAI/Gemini` · `Postgres/Redis`  
+`Google Workspace (Gmail/Calendar/Sheets)` · `Docker` · `Netlify/Vercel`
+
+### 📬 Contato
+- 🌐 Site/Portfólio: https://roboat.com.br  
 - 💼 LinkedIn: https://www.linkedin.com/in/guilherme-marin/  
 - ✉️ Email: escritorio@roboat.com.br
 
 ---
 
 ## 📊 GitHub Snapshot
-<!-- Ajuste o username se necessário -->
 <p align="left">
   <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guimarin1990&show_icons=true" />
   <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimarin1990&layout=compact" />
@@ -98,8 +97,6 @@ I connect **LLMs** to real problems using **agents**, **RAG**, and **automation*
 Curto parcerias em **Agentes**, **RAG**, **fintech**, **onboarding** e **automação** (WhatsApp/Google).  
 Se você tem um problema real para resolver, me chama — posso prototipar rápido e medir impacto.
 
-<!-- Footer curto -->
 <p align="center">
   <sub>“O pessimista se queixa do vento, o otimista espera que ele mude; <br/>o realista ajusta as velas.”</sub>
 </p>
-
